@@ -165,20 +165,6 @@ export EVIL_DROID_DEBUG=1
 - Fix apktool build packages APK
 - Adding mode running payload in the background
 
-## 👥 Credits & Contributors
-
-### Original Author
-- **Mascerano Bachir** - Original developer and framework creator
-
-### Enhanced Version (v0.4)
-- **Tech Sky - Security Research Team** - Framework enhancements and improvements
-
-### Special Thanks
-- **MrPedroubuntu** - Testing and feedback
-- **Kader Achraf** - Code optimization suggestions
-- **Youcef Yahia** - Security analysis
-- **Mohammed Yacine** - Documentation improvements
-
 ## 📄 License
 This is an open-source tool. If you modify or add features, please contribute back to the community.
 
