@@ -48,7 +48,7 @@ Evil-Droid is an advanced framework designed to create, generate, and embed APK 
 
 ### 1. Download the Framework
 ```bash
-git clone https://github.com/TechSky-EH/Evil-Droid.git
+git clone https://github.com/Rithick-hub/Evil-Droid.git
 cd Evil-Droid
 ```
 
